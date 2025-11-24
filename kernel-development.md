@@ -1,6 +1,7 @@
 # OpenBMC kernel development
 
 > [!IMPORTANT]
+>
 > The kernel development philosphy described below also applies to
 > OpenBMC's u-boot fork.
 
